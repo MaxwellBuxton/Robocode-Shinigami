@@ -1,0 +1,10 @@
+{
+    "name": "Shinigami",
+    "version": "2.077",
+    "authors": ["His Majesty Lord Maxwell The First"],
+    "description": "Arasakas newest Autonomous anti-tank Drone that may be powered by blackwall AIs",
+    "homepage": "github.com/MaxwellBuxton/robocode-ebictonk",
+    "countryCodes": ["Federal Republic of The Moon","Arasaka Corporation"],
+    "platform": "JVM",
+    "programmingLang": "Java"
+}

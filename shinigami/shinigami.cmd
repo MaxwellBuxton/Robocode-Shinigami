@@ -1,0 +1,1 @@
+java -cp ../lib/* shinigami.java >nul
